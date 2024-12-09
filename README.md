@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Hooman
-- 👀 I’m AI/Data Science Enthusiastic
-- 🌱 Currently focused on Machine Learning
-- 📫 How to reach me: homan.amini@gmail.com
+- 👋 Hooman
+- 🌱 Machine Learning / Data Science
 
 
 <!---
